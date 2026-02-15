@@ -14,21 +14,21 @@
     },
     {
       "hour": "02-03",
-      "status": "no",
-      "label": "Світла немає",
-      "icon": "-"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "03-04",
-      "status": "no",
-      "label": "Світла немає",
-      "icon": "-"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "04-05",
-      "status": "no",
-      "label": "Світла немає",
-      "icon": "-"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "05-06",
