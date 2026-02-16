@@ -80,15 +80,15 @@
     },
     {
       "hour": "13-14",
-      "status": "no",
-      "label": "Світла немає",
-      "icon": "-"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "14-15",
-      "status": "no",
-      "label": "Світла немає",
-      "icon": "-"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "15-16",
@@ -140,9 +140,9 @@
     },
     {
       "hour": "23-24",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     }
   ],
   "schedule_tomorrow": [
