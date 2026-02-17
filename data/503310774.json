@@ -166,45 +166,45 @@
     },
     {
       "hour": "03-04",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "04-05",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "05-06",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "06-07",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "07-08",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "08-09",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "09-10",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "10-11",
@@ -226,51 +226,51 @@
     },
     {
       "hour": "13-14",
-      "status": "msecond",
-      "label": "Можливо немає другі 30 хв",
-      "icon": "+/?"
+      "status": "second",
+      "label": "Немає другі 30 хв",
+      "icon": "+/-"
     },
     {
       "hour": "14-15",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "15-16",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "16-17",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "17-18",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "18-19",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "19-20",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "20-21",
-      "status": "mfirst",
-      "label": "Можливо немає перші 30 хв",
-      "icon": "?/+"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "21-22",
