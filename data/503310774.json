@@ -148,45 +148,45 @@
   "schedule_tomorrow": [
     {
       "hour": "00-01",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "01-02",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "02-03",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "03-04",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "first",
+      "label": "Немає перші 30 хв",
+      "icon": "-/+"
     },
     {
       "hour": "04-05",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "05-06",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "06-07",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "yes",
+      "label": "Світло є",
+      "icon": "+"
     },
     {
       "hour": "07-08",
@@ -208,51 +208,51 @@
     },
     {
       "hour": "10-11",
-      "status": "msecond",
-      "label": "Можливо немає другі 30 хв",
-      "icon": "+/?"
+      "status": "second",
+      "label": "Немає другі 30 хв",
+      "icon": "+/-"
     },
     {
       "hour": "11-12",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "12-13",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "13-14",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "14-15",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "15-16",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "16-17",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "17-18",
-      "status": "mfirst",
-      "label": "Можливо немає перші 30 хв",
-      "icon": "?/+"
+      "status": "first",
+      "label": "Немає перші 30 хв",
+      "icon": "-/+"
     },
     {
       "hour": "18-19",
@@ -274,21 +274,21 @@
     },
     {
       "hour": "21-22",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "22-23",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "23-24",
-      "status": "maybe",
-      "label": "Можливо відключення",
-      "icon": "?"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     }
   ]
 }
