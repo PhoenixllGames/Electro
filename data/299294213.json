@@ -110,15 +110,15 @@
     },
     {
       "hour": "18-19",
-      "status": "first",
-      "label": "Немає перші 30 хв",
-      "icon": "-/+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "19-20",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "first",
+      "label": "Немає перші 30 хв",
+      "icon": "-/+"
     },
     {
       "hour": "20-21",
@@ -140,9 +140,9 @@
     },
     {
       "hour": "23-24",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     }
   ],
   "schedule_tomorrow": [
