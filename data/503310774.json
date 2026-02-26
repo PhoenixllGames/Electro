@@ -86,27 +86,27 @@
     },
     {
       "hour": "14-15",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "15-16",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "16-17",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "no",
+      "label": "Світла немає",
+      "icon": "-"
     },
     {
       "hour": "17-18",
-      "status": "yes",
-      "label": "Світло є",
-      "icon": "+"
+      "status": "first",
+      "label": "Немає перші 30 хв",
+      "icon": "-/+"
     },
     {
       "hour": "18-19",
